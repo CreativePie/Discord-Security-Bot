@@ -4,7 +4,7 @@ const _config = {
     prefix: "s!",
     token: "your-token",
     date_format: "MM-DD-YYYY HH:mm A",
-    copyright: "© 2021 Your Name",
+    copyright: "© 2021 Up-2 | support@up-2.xyz",
     colorhex: "#eb3734",
     voicechanneltojoin: "some-id",
     port: "8080",
