@@ -1,7 +1,7 @@
 const _config = {
 
     // Client Settings
-    prefix: "s!",
+    prefix: ">",
     token: "your-token",
     date_format: "MM-DD-YYYY HH:mm A",
     copyright: "© 2021 Up-2 | support@up-2.xyz",
@@ -69,7 +69,7 @@ const _config = {
     },
 
     defaultimage: "https://i.imgur.com/T9OdSQq.png", // If no evidence is provided
-    owners: ['865757954950955008'], // These are role IDS that can add staff members to the staff DB
+    owners: ['395904051835043852'], // These are role IDS that can add staff members to the staff DB
 
     loggingguild: "865663211461017620", // This is a server ID
     reportlogs: "865664707561914388", // This is a channel ID that reports will be sent to
